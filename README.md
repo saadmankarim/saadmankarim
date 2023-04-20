@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Saadman Karim ! 👋
+
+I'm a computer science enthusiast from Bangladesh, currently working as a professional database administrator in TigerIT Bangladesh Ltd with about 7+ years of experience in Oracle Database, PosrtgreSQL, Linux Administration, AWS, MySQL.
 
 <!--
 **saadmankarim/saadmankarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
